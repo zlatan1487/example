@@ -6,3 +6,4 @@ def str_upper(value):
 def letter_upper(value):
     """ this letter_upper from vitaliy """
     return value.upper()
+
